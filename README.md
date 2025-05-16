@@ -1,4 +1,4 @@
-# Плагин Yandex IoT Manager для Obsidian
+# Плагин для Obsidian
 
 Плагин для Obsidian, предназначенный для управления сценариями Яндекс Умного Дома. Этот плагин позволяет импортировать, экспортировать, проверять, версионировать, сравнивать и симулировать сценарии Яндекс IoT, хранящиеся в формате YAML внутри файлов Markdown.
 
@@ -119,21 +119,6 @@ scenarios:
 4. Скопируйте скомпилированные файлы в папку плагинов вашего Vault.
 
 Для отладки используйте консоль разработчика Obsidian (Ctrl/Cmd + Shift + I).
-
-## Лицензия
-
-Плагин распространяется под лицензией MIT. Подробности см. в файле `LICENSE`.
-
-# Obsidian "IOT IDExManager" Plugin
-- /Import YAML Scenario
-- Подсветка синтаксиса
-- /Validate YAML Scenario
-- /Create Versioned Copy (локальное версионирование)
-- /Show Scenario Versions
-- /Generate Scenario Template
-- /Compare Scenario Versions
-- /Simulate Scenario
-- /Export YAML Scenario
 
 # To do
 - Расширение /Validate YAML Scenario
